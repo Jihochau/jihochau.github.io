@@ -4,13 +4,14 @@ title: About me
 subtitle: Why Zhihao is a Lord
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Jihochau. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I work out a lot and many pretty girls like my musule
+- I'm extremely optimistic about my Life
+- I have a great interpersonal relation with my friends
 
-What else do you need?
+What else do you want to know about me?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you are interested in me please visit [my Linkedin ](https://www.linkedin.com/in/zhihao-zhou-9b048b2ba/) and you will know more about me.
